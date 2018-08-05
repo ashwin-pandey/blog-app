@@ -1,0 +1,3 @@
+static/* linguist-vendored
+docs/* linguist-documentation
+*.ejs linguist-language=js
